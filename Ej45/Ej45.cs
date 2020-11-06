@@ -15,7 +15,7 @@ namespace Ej45
                 c[i] = i + 1;
                 m[i] = " ";
             }
-
+            
             do
             {
                 Console.WriteLine($"ingrese descripcion para el codigo {c[cont]}");
